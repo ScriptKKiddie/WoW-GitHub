@@ -1,5 +1,5 @@
-# WoW-Technology
-WoW-Technology is all-in-one repository curated with the most relevant, updated, and well-researched information sourced from Internet &amp; Community.
+# WoW-GitHub
+WoW-GitHub is all-in-one repository curated with the most relevant, updated, and well-researched information sourced from Internet &amp; Community.
 
 ![WoW-Technology](https://img.shields.io/badge/WoW-Technology-brightgreen?style=flat-square&logo=github)
 
@@ -9,6 +9,7 @@ S.No. | Content/Topic | Additional Comment
 --- | --- | ---
 
 ## References
+- https://github.com/marketplace/actions/update-files-on-github
 
 ## Author(s)
 
